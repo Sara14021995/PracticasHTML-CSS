@@ -1,0 +1,16 @@
+nav{
+    background: salmon;
+    padding: 20px;
+}
+
+.columna{
+    background: silver;
+     color: black;
+    padding: 30px 15px 30px 15px;
+    width: 35%;
+    margin: 10px;
+}
+
+.padre{
+    display: flex;
+}
